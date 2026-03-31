@@ -23,7 +23,7 @@
   "dependencies": {
     "http": "0.0.0",
     "web-terminal": "^0.7.0",
-    "snyk": "^1.424.0"
+    "snyk": "^1.1296.2"
   },
   "snyk": true
 }
